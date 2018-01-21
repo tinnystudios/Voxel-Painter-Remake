@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxel Painter Remake", "Voxel Painter Remake.csproj", "{0EF7CF05-DBE6-AFA2-A8D6-A2DF3D630684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxel Painter Remake.Editor", "Voxel Painter Remake.Editor.csproj", "{2E1F683A-81A7-36F9-06B7-D852C861308B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF7CF05-DBE6-AFA2-A8D6-A2DF3D630684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF7CF05-DBE6-AFA2-A8D6-A2DF3D630684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF7CF05-DBE6-AFA2-A8D6-A2DF3D630684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF7CF05-DBE6-AFA2-A8D6-A2DF3D630684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1F683A-81A7-36F9-06B7-D852C861308B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1F683A-81A7-36F9-06B7-D852C861308B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1F683A-81A7-36F9-06B7-D852C861308B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1F683A-81A7-36F9-06B7-D852C861308B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
